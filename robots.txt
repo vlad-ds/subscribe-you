@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subscribe.you/sitemap.xml
